@@ -1,4 +1,4 @@
-# EURO-2024 Dispatcher Bot
+# EURO 2024 Dispatcher Bot
 
 ## Project Description
 
